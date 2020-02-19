@@ -28,11 +28,11 @@ FieldPhenomics Laboratory at Univeristy of Tokyo
 
 ![badge](https://img.shields.io/badge/tag-preferred_for_Keras_beginners-green.svg) 
 
-Basic code collection of Keras. Loading images, build, train, evaluate and using the CNN. As Keras is quite flexible and have multiple ways of writing code even for a simplest CNN, I have written down all the patterns in one Colab notebook.  *Images of rice seeds were provided from Dr. S. Nishiuchi at Nagoya Univ. in 2016 (personal communication).* However, the data itself is not going to be discussed. Preferred to go through the notebook of Rice Seed Integrity below. 
+kerasを使った基本的な画像分類ソースコードです。雑草の生育の過程を撮影しデータセットにしました。
 
 
 
-![badge](https://img.shields.io/badge/todo-orange.svg) Finalize with feedbacks
+![badge](https://img.shields.io/badge/todo-orange.svg) Google Colaboratoryは必ずランタイムを初期化してから実行してください。
 
 <br>
 
