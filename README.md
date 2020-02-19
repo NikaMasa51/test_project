@@ -16,7 +16,7 @@ FieldPhenomics Laboratory at Univeristy of Tokyo
 - Google Colaboratory based notebooks. All you need is an internet connection, google chrome browser, and google account. **GPU learning environment at a click!**
 - To open the notebook, click the ![image](https://colab.research.google.com/assets/colab-badge.svg)in each section. Logging into Google Account and copying the ipynb to your local google doc folder is preferred for code customization and saving.
 - Google Colaboratoryベースのノートブックです。 必要なのは、インターネット接続、Google Chromeブラウザ、およびGoogleアカウントだけです。 **クリックでGPU学習環境！**
-- ノートブックを開くには、各セクションの！[image]（https://colab.research.google.com/assets/colab-badge.svg）をクリックします。 コードのカスタマイズと保存には、GoogleアカウントにログインしてローカルのGoogleドキュメントフォルダーにipynbをコピーすることをお勧めします。
+- ノートブックを開くには、各セクションの ！[image](https://colab.research.google.com/assets/colab-badge.svg) をクリックします。 コードのカスタマイズと保存には、GoogleアカウントにログインしてローカルのGoogleドキュメントフォルダーにipynbをコピーすることをお勧めします。
 ## Note
 
 - Mathmatical calculations and/or theoretical backgrounds will not be thoroughly explained in this tutorial. The object of this notebook is to get a overview of how we can perform DL in the field of biology (especially in plant science and agriculture) for non informatitians.
