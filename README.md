@@ -1,13 +1,12 @@
-# Deep Learning for Biologists with Keras
+# ディープラーニングによる雑草の画像分類モデル
 
 
 
 ## By whom?
 
-Masanori Ishii ()
+石井昌範
 
-FieldPhenomics Laboratory at Univeristy of Tokyo
-
+東京大学フィールドフェノミクス研究拠点
 
 
 ## What is it?
