@@ -17,10 +17,8 @@ FieldPhenomics Laboratory at Univeristy of Tokyo
 - ノートブックを開くには、各セクションの ![image](https://colab.research.google.com/assets/colab-badge.svg)をクリックします。 コードのカスタマイズと保存には、GoogleアカウントにログインしてローカルのGoogleドキュメントフォルダーにipynbをコピーすることをお勧めします。
 ## Note
 
-- Mathmatical calculations and/or theoretical backgrounds will not be thoroughly explained in this tutorial. The object of this notebook is to get a overview of how we can perform DL in the field of biology (especially in plant science and agriculture) for non informatitians.
-- **Keras with Tensorflow background** is the main DL framework used in the notebook. I do not intend to mix different frameworks for clarity in the current situation.
-- Feedbacks and requests, complements including typos and misusage of codes in the notebooks are highly welcomed in the issues of github repo or at twitter (@totti0223).
-- A lot of stuff in this notebook is still in alpha ver. (code readability, comments). But to gain early feedbacks, opening them cowardly.
+- このノートブックの目的は、非情報学者向けに植物科学と農業でディープラーニングを実行する方法の概要を取得することです。
+- バックグラウンドでTensorflowが動作するKerasは、ノートブックで使用されるメインのディープラーニングフレームワークです。
 
 ## To do
 
