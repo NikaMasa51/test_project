@@ -12,9 +12,7 @@ FieldPhenomics Laboratory at Univeristy of Tokyo
 
 ## What is it?
 
-- Tutorials for deep learning based analysis  (mainly) on biological relavent themes. Should give you a better implementation of DL much more than general tutorial tasks like MNIST and CIFAR-10. 
-- Google Colaboratory based notebooks. All you need is an internet connection, google chrome browser, and google account. **GPU learning environment at a click!**
-- To open the notebook, click the ![image](https://colab.research.google.com/assets/colab-badge.svg)in each section. Logging into Google Account and copying the ipynb to your local google doc folder is preferred for code customization and saving.
+- 雑草分類に関する深層学習のチュートリアル。
 - Google Colaboratoryベースのノートブックです。 必要なのは、インターネット接続、Google Chromeブラウザ、およびGoogleアカウントだけです。 **クリックでGPU学習環境！**
 - ノートブックを開くには、各セクションの ![image](https://colab.research.google.com/assets/colab-badge.svg)をクリックします。 コードのカスタマイズと保存には、GoogleアカウントにログインしてローカルのGoogleドキュメントフォルダーにipynbをコピーすることをお勧めします。
 ## Note
