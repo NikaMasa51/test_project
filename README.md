@@ -23,7 +23,7 @@
 
 ### ディープラーニングによる雑草分類
 
-<img src = "assets/image-20190117153946252.png" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/totti0223/deep_learning_for_biologists_with_keras/blob/master/notebooks/basic_usage_of_keras.ipynb) <br>
+<img src = "assets/oinutade_0_1.jpg" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/keras_weed_3.ipynb) <br>
 
 ![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg)  ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
 
