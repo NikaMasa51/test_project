@@ -35,8 +35,6 @@ kerasを使った基本的な画像分類ソースコードです。雑草の生
 
 <br>
 
-## Notebooks Open
-
 ### VGG16をファインチューニングして雑草分類
 
 <img src = "assets/oinutade_0_1.jpg" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_vgg16_fine-tuning_cls09_2_1.ipynb) <br>
