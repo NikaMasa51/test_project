@@ -21,7 +21,7 @@
 
 ## Notebooks Open
 
-### 01　雑草の生育期間を区別せずに分類器を作る（10種類）(2020 5/20)
+### 01　雑草の生育期間を区別せずに分類器を作る(2020 5/20)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_01.ipynb) <br>
 
@@ -30,13 +30,33 @@
 雑草の生育期間（芽生え・生育済み）を区別せずに分類器を作成します。
 育成した雑草の種類はハキダメギク、ホソアオゲイトウ、イチビ、イヌビエ、コセンダングサ、マメアサガオ、メヒシバ、オヒシバ、オイヌタデ、シロザの10種類です。
 
- 
+![badge](https://img.shields.io/badge/todo-orange.svg) Google Colaboratoryは必ずランタイムを初期化してから実行してください。
 
+<br>
 
+### 02　雑草の生育期間を区別してに分類器を作る（芽生え）()
 
+<img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_02.ipynb) <br>
+
+![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg)  ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
+
+雑草の生育期間が芽生えのデータを用いて分類器を作成します。
+育成した雑草の種類はハキダメギク、ホソアオゲイトウ、イチビ、イヌビエ、コセンダングサ、マメアサガオ、メヒシバ、オヒシバ、オイヌタデ、シロザの10種類です。
 
 ![badge](https://img.shields.io/badge/todo-orange.svg) Google Colaboratoryは必ずランタイムを初期化してから実行してください。
 
+<br>
+
+### 03　雑草の生育期間を区別してに分類器を作る（生育済み）()
+
+<img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_03.ipynb) <br>
+
+![badge](https://img.shields.io/badge/type-classification-blue.svg) ![badge](https://img.shields.io/badge/tag-CNN-green.svg)  ![badge](https://img.shields.io/badge/tag-Transfer_Learning-green.svg) ![badge](https://img.shields.io/badge/tag-Fine_Tuning-green.svg)
+
+雑草の生育期間が生育済みのデータを用いて分類器を作成します。
+育成した雑草の種類はハキダメギク、ホソアオゲイトウ、イチビ、イヌビエ、コセンダングサ、マメアサガオ、メヒシバ、オヒシバ、オイヌタデ、シロザの10種類です。
+
+![badge](https://img.shields.io/badge/todo-orange.svg) Google Colaboratoryは必ずランタイムを初期化してから実行してください。
 
 <br>
 
