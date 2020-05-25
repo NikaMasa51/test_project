@@ -85,7 +85,8 @@
 ![badge](https://img.shields.io/badge/todo-orange.svg) Google Colaboratoryは必ずランタイムを初期化してから実行してください。
 
 <br>
-'''
+
+<!--
 ### VGG16をファインチューニングして雑草分類（アンサンブル学習）(2020 5/9)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_VGG16_fine_tuning_cls09_2_1.ipynb) <br>
@@ -99,5 +100,5 @@
 ![badge](https://img.shields.io/badge/todo-orange.svg) Google Colaboratoryは必ずランタイムを初期化してから実行してください。
 
 <br>
-'''
+-->
 
