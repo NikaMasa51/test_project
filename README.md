@@ -60,7 +60,7 @@
 
 <br>
 
-### 04　科目が同じ品種をグループにして分類器を作る（生育済み）(作成中)
+### 04　科目が同じ品種をグループにして分類器を作る（生育済み）(2020/5/26)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_04.ipynb) <br>
 
@@ -73,7 +73,7 @@
 
 <br>
 
-### 05　イネ科、ツル植物（マメアサガオ）、広葉雑草の3種類にクラスの分けして分類器を作る（生育済み）(作成中)
+### 05　イネ科、ツル植物（マメアサガオ）、広葉雑草の3種類にクラスの分けして分類器を作る（生育済み）(2020/5/26)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_05.ipynb) <br>
 
