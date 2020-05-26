@@ -21,7 +21,7 @@
 
 ## Notebooks Open
 
-### 01　雑草の生育期間を区別せずに分類器を作る(2020 5/20)
+### 01　雑草の生育期間を区別せずに分類器を作る(2020/5/25)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_01.ipynb) <br>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-### 02　雑草の生育期間を区別して分類器を作る（芽生え）(作成中)
+### 02　雑草の生育期間を区別して分類器を作る（芽生え）(2020/5/25)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_02.ipynb) <br>
 
@@ -47,7 +47,7 @@
 
 <br>
 
-### 03　雑草の生育期間を区別して分類器を作る（生育済み）(作成中)
+### 03　雑草の生育期間を区別して分類器を作る（生育済み）(2020/5/25)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_training_03.ipynb) <br>
 
@@ -86,6 +86,7 @@
 
 <br>
 
+<!--
 ### VGG16をファインチューニングして雑草分類（アンサンブル学習）(2020 5/9)
 
 <img src = "asset/hakidamegiku_IMG_1546_2.JPG" width="150" ALIGN="left" /> [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NikaMasa51/test_project/blob/master/notebook/weed_VGG16_fine_tuning_cls09_2_1.ipynb) <br>
@@ -96,10 +97,8 @@
 ハキダメギク、ホソアオゲイトウ、イチビ、イヌビエ、コセンダングサ、マメアサガオ、メヒシバ、オヒシバ、オイヌタデ、シロザの10種類の雑草をイネ科、ツル植物（マメアサガオ）、広葉雑草の3種類に分けて分類器を作成します。
 さらに今回は3つのtrainデータを作成しアンサンブル学習を行いました。
 
-
-
 ![badge](https://img.shields.io/badge/todo-orange.svg) Google Colaboratoryは必ずランタイムを初期化してから実行してください。
 
 <br>
-
+-->
 
